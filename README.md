@@ -21,5 +21,8 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-09-rotate-torso-to-aim
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-10-probuilder
+
+
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch09-12-mixamo-character
